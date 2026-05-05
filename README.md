@@ -2,10 +2,10 @@
 A dive into Yuumi's 2025 metrics, from top-tier enchanter support to niche pick, this Tableau Dash examines win rates, ban rates, and the shifting itemization landscape during the season!
 
 # Goals: 
-To visualize my favorite champion’s performance throughout the year, manually collecting data across all tiers using Op.GG’s website. I peaked Emerald 2 duoing! Since I was playing so much ranked at the time, I had figured I’d record general champion stats to see how all other Yuumi players were doing as well!  
+To visualize my favorite champion’s performance throughout the year, I manually collected Yuumi's data across all tiers using OP.GG’s website. I peaked Emerald 2 duoing with her too!! Since I was playing so much ranked at the time, I had figured I’d record general champion stats to see how all other Yuumi players were doing as well!  
 
 # Finished Project: 
-Explore and see Yuumi’s performance on my Tableau Public Dashboard [here]! 
+Explore and see Yuumi’s performance on my Tableau Public Dashboard [here](https://public.tableau.com/app/profile/marissa.nash/viz/Yuumi/Dashboard22) 
 <br> 
 <br>
 **Deliverables** 
@@ -15,7 +15,7 @@ Explore and see Yuumi’s performance on my Tableau Public Dashboard [here]!
 # Programs Used: 
 - Excel for data collection 
 - Tableau for Visualization 
-- Copilot 
+- Copilot/Gemini
     - Used primarily to troubleshoot errors. 
 
 # Analysis Questions and Findings: 
