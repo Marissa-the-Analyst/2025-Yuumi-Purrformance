@@ -1,5 +1,5 @@
 # 2025-Yuumi-Purrformance
-<img width="800" height="506" alt="yuumi gif" src="https://github.com/user-attachments/assets/d1a78261-e39e-4a00-acfb-df29bb395044" />
+<img width="1280" height="810" alt="yuumi gif" src="https://github.com/user-attachments/assets/18fbc306-eb18-417e-b3ab-0cb0e63ce53c" />
 
 A dive into Yuumi's 2025 metrics, from top-tier enchanter support to niche pick, this Tableau Dash examines win rates, ban rates, and the shifting itemization landscape during the season!
 
